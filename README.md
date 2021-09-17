@@ -33,13 +33,6 @@
 1. 「TO」シートに宛先用、「CC」シートにCC用、「BCC」シートにBCC用のメールアドレスを記入します。<br>※シート名は変更しないでくだい。<br>※各シートのB列以降は特に使用しないため、自由に追加情報を記載してかまいません。
 1. 入力後、「メール作成」ボタンをクリックします。
 <!-- ![icon](./img/appendix_01.png) -->
-
-	<meta property="og:type" content="your_sitetype">
-	<meta property="og:site_name" content="your_sitename">
-	<meta property="og:url" content="{{https://github.com/nuki333/ExcelVBA01_CreateOutlookMail/blob/main/img/appendix_01.png?raw=true}}{{url absolute="true"}}">
-	<meta property="og:locale" content="your_locale">
-{{{block "ogp"}}}
-
 ![Image 1](https://github.com/nuki333/ExcelVBA01_CreateOutlookMail/blob/main/img/appendix_01.png?raw=true)
 1. Outlookが起動し、宛先、CC、BCCが指定済の下書きメールが表示されます。
 <!-- ![icon](./img/appendix_02.png) -->
